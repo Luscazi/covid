@@ -15,4 +15,9 @@
 
 p{
     text-indent: 5px;
+    color: #414141;
   }
+
+.spacep {
+    margin-left: 3%;
+}
